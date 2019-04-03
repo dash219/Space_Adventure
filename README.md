@@ -7,3 +7,4 @@ Otherwise, you can launch the game by running starter/main.py
 
 This is a roguelite.<br>
 To view available commands, type "help".<br>
+"me" is not listed as a command, but should be.<br>
